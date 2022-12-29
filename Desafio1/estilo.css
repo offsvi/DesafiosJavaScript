@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+    border: solid red;
+    padding: 10px;
+}
+
+.photo {
+    padding: 20px;
+}
+
+p {
+    text-align: left;
+    font-size: 20px;
+    
+}
+
